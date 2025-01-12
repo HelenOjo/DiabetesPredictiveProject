@@ -22,15 +22,15 @@ Step 07. Hyparameter Fine Tuning: First select the best model to be applied in t
 
 ## EDA
 
-![Screenshot 2025-01-05 195327](https://github.com/user-attachments/assets/63f14506-6d8d-4ddc-b059-1f42606d134d)
-
+### Count of Age group with Diabetes feature
+![Screenshot 2025-01-05 195023](https://github.com/user-attachments/assets/13b9275b-b936-4603-8e4a-6b1306960a2d)
 The age group above 66 years has the highest count of diabetes cases (1) while the lowest is in the 0-12 age group meaning the prevalence of diabetes tends to increase progressively with age.
 
 ![Screenshot 2025-01-12 212948](https://github.com/user-attachments/assets/9e86e934-6a4c-4e0e-9865-c2cac70e1ef1)
 
 Obese patients have the highest number of diabetic patients, generally, all category has diabetic patients 
 
-![Screenshot 2025-01-05 195023](https://github.com/user-attachments/assets/13b9275b-b936-4603-8e4a-6b1306960a2d)
+
 
 Individuals with HbA1c levels ranging from 5.7% to 9.0% are highly indicative of diabetes or prediabetes.
 
