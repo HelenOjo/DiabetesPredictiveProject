@@ -1,4 +1,5 @@
 # DiabetesPredictiveProject
+This project aims to develop and implement a model to predict the tendency of a patient having diabetes or not.
 
 ![Project_69-03](https://github.com/user-attachments/assets/0846d72c-e140-43aa-9f04-4cb4f8e95952)
 
