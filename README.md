@@ -26,21 +26,20 @@ Step 07. Hyparameter Fine Tuning: First select the best model to be applied in t
 ![Screenshot 2025-01-05 195023](https://github.com/user-attachments/assets/13b9275b-b936-4603-8e4a-6b1306960a2d)
 The age group above 66 years has the highest count of diabetes cases (1) while the lowest is in the 0-12 age group meaning the prevalence of diabetes tends to increase progressively with age.
 
+### Cout of BMI Category with Diabetes
 ![Screenshot 2025-01-12 212948](https://github.com/user-attachments/assets/9e86e934-6a4c-4e0e-9865-c2cac70e1ef1)
-
 Obese patients have the highest number of diabetic patients, generally, all category has diabetic patients 
 
-
-
+### Count of HbA1c Level Category with Diabetes
+![Screenshot 2025-01-12 222023](https://github.com/user-attachments/assets/3fafd2ed-b0fc-48cc-9ab2-83ac7585de7f)
 Individuals with HbA1c levels ranging from 5.7% to 9.0% are highly indicative of diabetes or prediabetes.
 
 ![Screenshot 2025-01-05 203521](https://github.com/user-attachments/assets/267aca00-d7ec-4019-8468-688b4659c430)
 
 
 This shows the distribution position of diabetes amongst other variables and their relationship with each other
-
+### Correlation Map
 !![Screenshot 2025-01-05 203521](https://github.com/user-attachments/assets/054630cd-398a-4be2-9eba-1be8ac659c92)
-
 Amongst the variables, there is a strong correlation between diabetes and HbAIc level followed by diabetes and blood-glucose level.
 
 ## Model Performance
