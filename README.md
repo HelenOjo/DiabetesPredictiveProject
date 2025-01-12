@@ -44,11 +44,14 @@ Four models were trained with class weight
 ### XGB Classifier
 ![Screenshot 2025-01-12 214950](https://github.com/user-attachments/assets/043d4a4e-2675-4323-968a-83a483ea9911)
 
+
 ### Logistic Regression
 ![Screenshot 2025-01-12 215245](https://github.com/user-attachments/assets/376be735-6906-4bdf-9ac1-7a284daa3440)
 
+
 ### Random Forest
 ![Screenshot 2025-01-12 215401](https://github.com/user-attachments/assets/7257e803-3aba-4d15-872b-87fe718c7152)
+
 
 ### SGD Classifier
 ![Screenshot 2025-01-12 215602](https://github.com/user-attachments/assets/79ebeb1c-08f1-48b0-b2e9-5f7e83c9677b)
