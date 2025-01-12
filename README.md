@@ -34,11 +34,12 @@ Obese patients have the highest number of diabetic patients, generally, all cate
 
 Individuals with HbA1c levels ranging from 5.7% to 9.0% are highly indicative of diabetes or prediabetes.
 
-![Screenshot 2025-01-12 212948](https://github.com/user-attachments/assets/e63433eb-93a6-493e-a8ab-81d29a666a5a)
+![Screenshot 2025-01-05 203521](https://github.com/user-attachments/assets/267aca00-d7ec-4019-8468-688b4659c430)
+
 
 This shows the distribution position of diabetes amongst other variables and their relationship with each other
 
-![Screenshot 2025-01-12 212948](https://github.com/user-attachments/assets/edfd9340-7727-4aa1-80d3-ed5acac1d62a)
+!![Screenshot 2025-01-05 203521](https://github.com/user-attachments/assets/054630cd-398a-4be2-9eba-1be8ac659c92)
 
 Amongst the variables, there is a strong correlation between diabetes and HbAIc level followed by diabetes and blood-glucose level.
 
